@@ -74,14 +74,15 @@ Visitiamo [questo sito](https://www.justeat.it), proviamo ad iscriverci e ad ord
 Questa fase della lezione deve essere **attiva**. Mentre utilizziamo il sito:
 
 - annotate le **azioni** che stiamo eseguendo. Elencate i passaggi che abbiamo svolto per eseguire ogni azione.
-- identificate quali **viste** (pagine web) stiamo usando per compiere le varie azioni. Raccogliete, di ogni vista, le seguenti informazioni:
 
 ---
 
-- l'indirizzo (URL), visibile nella **barra degli indirizzi** del **browser**
-- quali dati vengono richiesti all'utente
-- quali dati dell'applicazione vengono visualizzati
+- identificate quali **viste** (pagine web) stiamo usando per compiere le varie azioni. Raccogliete, di ogni vista, le seguenti informazioni:
+    - l'indirizzo (URL), visibile nella **barra degli indirizzi** del **browser**
+    - quali dati vengono richiesti all'utente
+    - quali dati dell'applicazione vengono visualizzati
 - individuate gli **oggetti** (**fatti**, **persone**, **cose**) visibili in ogni pagina.
+- descrivete brevemente ciò che ogni oggetto rappresenta
 - provate ad elencare le caratteristiche comuni di ogni oggetto
 
 ---
@@ -136,11 +137,13 @@ Elenchiamo tutti gli attributi con questa caratteristica.
 
 Questi in realtà non sono attributi, ma costituiscono un collegamento tra entità. Li chiameremo **relazioni**.
 
-Elenchiamo tutte le relazioni che abbiamo individuato. 
+**Elenchiamo** tutte le relazioni che abbiamo individuato. 
 
 Per ogni relazione dobbiamo scegliere un **nome** che ne indichi il significato. Il nome deve essere **univoco**. Non possiamo avere due relazioni con lo stesso nome.
 
-Un'entità non è mai isolata, è sempre collegata ad almeno un'altra, tramite una relazione.
+**Descriviamo** brevemente la funzione svolta da ogni relazione.
+
+*Un'entità non è mai isolata, è sempre collegata ad almeno un'altra, tramite una relazione.*
 
 ---
 
